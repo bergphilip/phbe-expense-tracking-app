@@ -1,0 +1,15 @@
+{
+    "name": "ExpenseTracker",
+    "short_name": "ExpenseTracker",
+    "start_url":".",
+    "display":"standalone",
+    "background_color":"#000000",
+    "description":"Expense App",
+    "icons": [
+        {
+            "src": "./assets/icons/appicon.png",
+            "sizes": "512x512",
+            "type":"image/png"
+        }
+    ]
+}
